@@ -2,7 +2,7 @@
 
 # About this project — Before starting
 
-In this project I’m aiming to create a 3D representation of comments I found on Kaggle.com. During the project, I’ll try to document my ideas, helps, Ai usage,problems, and things I want to mention. The structure of this documentation will be dynamic, which means I’ll update it step by step. I’m sure I’ll make a lot of changes—both to the project and to the solutions to problems that occur during this process.
+In this project I’m aiming to create a 3D representation of comments I found on Kaggle.com. During the project, I’ll try to document my ideas, helps, Ai usage,problems, and things I want to mention. The structure of this documentation will be dynamic, which means I’ll update it step by step during the proces. I’m sure I’ll make a lot of changes—both to the project and to the solutions to problems that occur during this process.
 
 In order to show how this project changes, let me explain my starting point.
 

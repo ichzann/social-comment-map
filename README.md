@@ -22,3 +22,11 @@ pandas -> https://pandas.pydata.org/docs/user_guide/10min.html
 # Ai Help
 - I had hard time to set my working space. I got hlep from ai
 - Setting up local Ai with Ollama and Ollama lib. Documentation -> https://github.com/ollama/ollama-python
+- i was having problem with giving LLM a promt, becuase I kept geting denied by the LLm due to ethical Concerns. This was due to my word choiche "what is the likelihood of person with the name "yxz" exists." and this was interpreted by the llm as Unethical. So i got help from another llm to solve this issue.
+
+# Problems along the way 
+- i forgot to have 3 variables so, i can ccrate 3d plot, so i added the likelihood of the user name of the comment being a real name or not.
+- LLM is not giving me the excat output form as i want. It keeps giving me eiter extra text possibliy from tought of chain. I need a different approach 
+
+
+# Notes for changes 

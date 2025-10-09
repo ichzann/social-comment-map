@@ -28,6 +28,6 @@ pandas -> https://pandas.pydata.org/docs/user_guide/10min.html
 # Problems along the way 
 - i forgot to have 3 variables so, i can ccrate 3d plot, so i added the likelihood of the user name of the comment being a real name or not.
 - LLM is not giving me the excat output form as i want. It keeps giving me eiter extra text possibliy from tought of chain. I need a different approach. (I solved this problem using an other LLM Model (Lama) I think, this happed, because of the deep reasoning funtion of deep seek. I keep getting the reasoning with the answer.)
-
+- My approach with for loop and requesting from llm 3 scores separately is not optimal. It's time consuming and extra work. It could mabe solved with a better approach like. For instance, getting all 3 socres with the same request. It could reduce the procces time.
 
 # Notes for changes 

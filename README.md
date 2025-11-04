@@ -43,3 +43,6 @@ Because of a short planning phase, I overlooked the need for three separate scor
 
 However, this introduced another problem that the dataset didn’t include usernames. So, I decided to generate random usernames using LLM. Unfortunately, my prompt wasn’t perfect, and the model often returned obviously fake names (which, to be fair, reflects social media reality). As a result, most nickname scores ended up between 0% and 30%.
 Another possible reason for the clustering of comments could be that the dataset was already filtered for hate speech or violent content, which limited the range of “toxic” examples
+
+<img width="498" height="490" alt="image" src="https://github.com/user-attachments/assets/53bd617c-2d81-44bc-a73d-44d58d3a6c0c" />
+

@@ -47,5 +47,4 @@ Another possible reason for the clustering of comments could be that the dataset
 ## Code Update
 I switched to automatic saving While loop, so i can analyse more comment. After analysing 100 comment, plot is saved. 
 
-<img width="498" height="490" alt="image" src="https://github.com/user-attachments/assets/53bd617c-2d81-44bc-a73d-44d58d3a6c0c" />
-
+<img width="498" height="490" alt="image" src="https://github.com/user-attachments/assets/47a9bc6f-7646-4408-bab8-a0ae5ee92583" />
